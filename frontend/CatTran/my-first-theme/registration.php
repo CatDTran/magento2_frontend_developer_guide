@@ -8,5 +8,5 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
         \Magento\Framework\Component\ComponentRegistrar::THEME,
-        'frontend/CatTran/my-first-them',
-        __DIR_);
+        'frontend/CatTran/my-first-theme',
+        __DIR__);
