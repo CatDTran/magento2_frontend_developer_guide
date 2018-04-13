@@ -15,5 +15,5 @@ These are  the steps to add your own favicon to your theme. Let's say you have a
 ```
 
 ### Notes:
-+ New theme must have **media\preview.jpg**, otherwise error.
++ New theme must have `media\preview.jpg`, otherwise Magento will throw 'No preview found' error.
 + Switch to developer mode when developing new theme: `deploy:mode:set developer`
